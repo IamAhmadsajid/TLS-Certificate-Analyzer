@@ -28,13 +28,13 @@ Before running the script, make sure you have Python 3.6 or higher installed. Th
    ```
 3. Install the required modules (if prompted by the script):
    ```sh
-   python scanner.py
+   python TLS_GUI.py
    ```
 
 ## Usage
 1. Run the script:
    ```sh
-   python scanner.py
+   python TLS_GUI.py
    ```
 2. Enter the hostname (domain name or IP address) you want to scan.
 3. Select the scan mode (Simple or Verbose).
